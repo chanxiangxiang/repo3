@@ -9,9 +9,13 @@ public class testGit {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+
+        System.out.println("修改了");
     }
 
     public void test(){
+
+        int i = 0;
 
     }
 
